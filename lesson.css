@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+header{
+    width: 100%;
+    height: 44px;
+    background-color: #000000c5;
+    position: sticky;
+    top: 0;
+    backdrop-filter: blur(5px);
+}
+nav{
+    width: 65%;
+    height: 100%;
+    margin: auto;
+    
+}
+.nav_collection{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+}
+.nav_item{
+    color: #ddd;
+    font-size: 12px;
+}
+.nav_item i{
+    font-size: 15px;
+}
+.banner{
+    width: 100%;
+    height: 550px;
+    text-align: center;
+    padding-top: 40px;
+}
+.banner h3{
+    font-weight: 300;
+    font-size: 28px;
+    padding-bottom: 16px;
+}
+.banner h1{
+    font-size: 50px;
+}
+
+.pro13{
+    background: url(./hero_iphone13pro_avail__iy77cld0zwii_large.jpg) no-repeat center/cover;
+}
+.links a{
+    text-decoration: 300;
+    margin: 0 15px;
+    color: dodgerblue;
+}
+.links a:hover{
+    text-decoration: underline;
+}
+.iphonese{
+    background: url(./hero_iphonese_avail__eg8srhcnpo66_large.jpg) no-repeat center/cover;
+}
+.Watch{
+    background: url(./hero_watch_lte__b8er858e34gi_large.jpg) no-repeat center/cover;
+}
+.ser{
+    color: crimson;
+    font-size: 20px;
+}
+.wrapper{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.both{
+    width: 49%;
+    height: 550px;
+    margin: 0.5%;
+    text-align: center;
+    padding-top: 70px;
+}
+.both h3{
+    font-weight: 300;
+    font-style: 22px;
+    padding: 12px 0px;
+}
+.iphone13{
+    background: url(./photo_2022-04-30_14-31-28\ \(3\).jpg)
+    no-repeat center/cover;
+}
+.studio{
+    background: url("photo_2022-04-30_14-31-30\ \(2\).jpg") no-repeat center/cover;
+}
+.mother{
+    background: url("./photo_2022-04-30_14-31-29.jpg") no-repeat center/cover;
+}
+.girl{
+    background: url("./photo_2022-04-30_14-31-30.jpg") no-repeat center/cover;
+    color: #C6E1E6;
+    padding-top: 380px;
+}
+.swift{
+    background: url("./photo_2022-04-30_14-31-31.jpg") no-repeat center/cover;
+    color: #C6E1E6;
+    padding-top: 380px;
+}
+.air{
+    background: url("./photo_2022-04-30_14-31-28\ \(2\).jpg") no-repeat center/cover;
+    color: #fff;
+}
+.air h1 i{
+    color: blueviolet;
+    font-family: cursive;
+}
+.p{
+    margin-left: 200px;
+}
+.hr{
+    margin-top: 20px;
+    width: 79%;
+    margin-left: 195px;
+}
+.learn{
+    margin-left: 250px;
+    margin-top: 20px;
+}
+.shopping{
+    margin-left: 250px;
+    line-height: 35px;
+}
+.app{
+    margin-left: 500px;
+    line-height: 35px;
+    font-size: 18px;
+} 
+.shop{
+    margin-bottom: -410px;
+}
+.store{
+    margin-left: 780px;
+    line-height: 35px;
+    font-size: 18px;
+}
+.shop1{
+    margin-top: -540px;
+}
+.bisness{
+    margin-left: 1100px;
+    line-height: 35px;
+    font-size: 18px;
+}
+.shop2{
+    margin-top: -385px;
+}
+.values{
+    margin-left: 1450px;
+    line-height: 35px;
+    font-size: 18px;
+}
+.shop3{
+    margin-top: -490px;
+}
+.footer{
+    margin-left: 55px;
+}
+.eng{
+    padding-top: 450px;
+    margin-left: 250px;
+}
+.hr2{
+    width: 70%;
+    margin-bottom: 10px;
+    margin-left: 250px;
+}
+.oxirgi{
+    margin-left: 250px;
+}
+.va{
+    margin-left: 450px;
+}
